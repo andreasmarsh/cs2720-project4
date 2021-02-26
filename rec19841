@@ -1,0 +1,16 @@
+project4/:
+total 236
+-rw-r--r--. 1 myid    645 Nov 13 15:50 input.txt
+-rw-r--r--. 1 myid    351 Nov 12 13:02 Makefile
+-rw-r--r--. 1 myid      1 Nov  9 15:06 output.txt
+-rw-r--r--. 1 myid   2973 Nov 13 16:09 QueType.cpp
+-rw-r--r--. 1 myid   1482 Nov  9 15:08 QueType.h
+-rw-r--r--. 1 myid  26760 Nov 13 16:09 QueType.o
+-rw-r--r--. 1 myid    147 Nov 12 12:55 README.txt
+-rw-r--r--. 1 myid      0 Nov 13 17:46 rec19841
+-rwxr-xr-x. 1 myid 107640 Nov 13 17:42 TreeDr
+-rw-r--r--. 1 myid   6295 Nov 13 17:42 TreeDr.cpp
+-rw-r--r--. 1 myid  12056 Nov 13 17:38 TreeType.cpp
+-rw-r--r--. 1 myid   2826 Nov 13 10:59 TreeType.h
+-rw-r--r--. 1 myid  52680 Nov 13 17:38 TreeType.o
+/home/myid/asm38587/project4/:/home/myid/csci-2720
